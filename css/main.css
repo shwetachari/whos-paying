@@ -27,8 +27,7 @@ button {
   font-family: 'Comfortaa', cursive;
   background-color: white;
   color: rgb(102, 79, 62);
-  margin:5px;
-  margin-bottom:10px !important;
+  margin: 5px 0 10px;
 }
 body{
   background:none;
@@ -39,7 +38,7 @@ body{
   border-color: rgb(102, 79, 62);
   border-width: 1px;
   border-style: solid;
-  font-size:18px;
+  font-size:17px;
   overflow:auto;
 }
 input {
